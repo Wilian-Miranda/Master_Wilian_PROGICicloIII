@@ -76,6 +76,8 @@ namespace WilianMiranda01
             else
             {
                 MessageBox.Show("¡Usuario o contraseña incorrecta!");
+                txtUsuario.Text = "";
+                txtPassword.Text = "";
             }
         }
 
@@ -92,12 +94,41 @@ namespace WilianMiranda01
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-            Application.Exit();
+
         }
 
         private void label3_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            if (WindowState == FormWindowState.Normal)
+            {
+                WindowState = FormWindowState.Maximized;
+            }
+            else if(WindowState == FormWindowState.Maximized)
+            {
+                WindowState = FormWindowState.Normal;
+            }
+        }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (WindowState == FormWindowState.Normal)
+            {
+                WindowState = FormWindowState.Minimized;
+            }
+            else if(WindowState == FormWindowState.Minimized)
+            {
+                WindowState = FormWindowState.Normal;
+            }
+        }
+
+        private void button1_Click_2(object sender, EventArgs e)
+        {
+            Application.Exit();
         }
     }
 }
