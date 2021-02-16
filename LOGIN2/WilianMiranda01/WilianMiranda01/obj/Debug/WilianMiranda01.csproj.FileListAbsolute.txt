@@ -19,3 +19,5 @@ C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN
 C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.pdb
 C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Properties.Resources.resources
 C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrAcercaDe.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrHome.resources

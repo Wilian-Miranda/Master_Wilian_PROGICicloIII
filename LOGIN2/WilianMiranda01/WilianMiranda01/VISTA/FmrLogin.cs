@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 using WilianMiranda01.DOMINIO;
 using WilianMiranda01.NEGOCIO;
+using WilianMiranda01.VISTA;
 
 namespace WilianMiranda01
 {
@@ -72,6 +73,9 @@ namespace WilianMiranda01
             if (VUser.VerificarUsuario(User,RegistroUser)==true)
             {
                 MessageBox.Show("¡Sesión iniciada exitosamente!");
+                FmrHome home = new FmrHome();
+                home.Show();
+                this.Visible = false;
             }
             else
             {
