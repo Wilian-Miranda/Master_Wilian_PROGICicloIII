@@ -1,0 +1,118 @@
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe.config
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Properties.Resources.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Form1.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrRegistro.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Form1.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe.config
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Properties.Resources.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrAcercaDe.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrHome.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN2\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN2\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Properties.Resources.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN2\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrAcercaDe.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN2\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrHome.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN2\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Form1.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN2\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN2\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN2\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN2\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN2\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe.config
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN2\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN2\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN2\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrListaVisualDeUsuario.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe.config
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Properties.Resources.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrAcercaDe.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrHome.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrListaVisualDeUsuario.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Form1.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrOperaciones.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.dll
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.xml
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FrmUsuarios.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN03\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.CopyComplete
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe.config
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.dll
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.xml
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Properties.Resources.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrAcercaDe.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrHome.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrListaVisualDeUsuario.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Form1.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrOperaciones.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FrmUsuarios.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.CopyComplete
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe.config
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.dll
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.xml
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Properties.Resources.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrAcercaDe.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrHome.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrListaVisualDeUsuario.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Form1.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrOperaciones.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FrmUsuarios.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.CopyComplete
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\Historial de ejercicios\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN04\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FrmFoco.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe.config
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\bin\Debug\WilianMiranda01.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.dll
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.xml
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Properties.Resources.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrAcercaDe.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrHome.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrListaVisualDeUsuario.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.Form1.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FmrOperaciones.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FrmFoco.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.VISTA.FrmUsuarios.resources
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.GenerateResource.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.csproj.CopyComplete
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Master_Wilian_PROGICicloIII\LOGIN05\WilianMiranda01\WilianMiranda01\obj\Debug\WilianMiranda01.pdb
