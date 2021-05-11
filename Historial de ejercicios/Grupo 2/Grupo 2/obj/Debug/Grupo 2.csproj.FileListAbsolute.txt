@@ -1,0 +1,7 @@
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Grupo 2\Grupo 2\bin\Debug\Grupo 2.exe.config
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Grupo 2\Grupo 2\bin\Debug\Grupo 2.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Grupo 2\Grupo 2\bin\Debug\Grupo 2.pdb
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Grupo 2\Grupo 2\obj\Debug\Grupo 2.csprojAssemblyReference.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Grupo 2\Grupo 2\obj\Debug\Grupo 2.csproj.CoreCompileInputs.cache
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Grupo 2\Grupo 2\obj\Debug\Grupo 2.exe
+C:\Users\Jose\Desktop\PROG I CICLO 3\PROYECTOS\Grupo 2\Grupo 2\obj\Debug\Grupo 2.pdb
